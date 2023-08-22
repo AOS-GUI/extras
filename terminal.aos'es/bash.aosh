@@ -1,0 +1,7 @@
+note: this creates a bash-like environment
+
+alias ls dir
+alias # note
+alias export set
+alias wget dl
+alias ./ exec

@@ -1,0 +1,12 @@
+note: this terminal.aos creates a bunch of one-letter shortcuts for commands used frequently in the terminal
+
+alias d dir
+alias c cd
+alias e echo
+alias r rm
+alias x exec
+alias m camel
+alias s script
+alias o read
+alias < restart
+alias w clear
