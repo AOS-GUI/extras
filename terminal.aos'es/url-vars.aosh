@@ -1,0 +1,4 @@
+note: this creates a bunch of variables you can use with the 'dl' command.
+
+set gh https://raw.githubusercontent.com/
+set aosextras `gh`/AOS-GUI/extras/main/
